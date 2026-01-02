@@ -14,19 +14,22 @@ Transitioning from hospitality to tech. Building my way into cloud computing and
 - 🐍 Python for automation
 - 🔒 Cybersecurity fundamentals
 - 🤖 Arduino & IoT development
+- <3 Data Science
 
 ### 🎓 Certifications & Training
-- [x] TECNARA Digital Transformation Program (2025)
+- [ ] TECNARA and INAEM Pro In Tic program "IT MIcrosoft Dynamics 365 consultant"
+- [ ] Digital Transformation Program - Grupo san Valero(2025)
 - [ ] AWS Cloud Practitioner (In Progress)
 - [ ] Azure AI Fundamentals (Planned)
 - [ ] Python PCAP (Planned)
+- [ ] Oracle Cloud Infrastructure Foundations
 
 ### 💼 Background
 Former hospitality professional making the leap to tech. Single mom. Learning in public.
 
 ### 📫 How to Reach Me
-- LinkedIn: [linkedin.com/in/sara-...]
-- Email: sara@...
+- LinkedIn: [linkedin.com/in/saratrianamerchan]
+- Email: saratrianamerchan@gmail.com
 
 ### ⚡ Fun Fact
 I debug code and toddler tantrums with equal determination 😂
